@@ -10,4 +10,4 @@ Arduino Uno ou qualquer outro microcontrolador<br>1 Breadboard<br>Jumpers/Cabos 
 
 ![Meu Projeto](Imagem_demonstrativa.jpg).
 
-[Clique aqui para assistir ao vídeo](video.mp4)
+[![Como reproduzir um vídeo no GitHub](https://img.youtube.com/vi/BFO7PU2HMyw/0.jpg)](https://youtu.be/BFO7PU2HMyw)
