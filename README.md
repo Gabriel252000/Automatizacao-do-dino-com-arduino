@@ -14,3 +14,4 @@ Arduino Uno ou qualquer outro microcontrolador<br>1 Breadboard<br>Jumpers/Cabos 
   </a>
 </div>
 
+Obs: O código deve ser ajustado com base nas leituras do sensor LDR exibidas no monitor. Para calibrar o limite de acionamento do motor, analise os valores recebidos e configure um limite que corresponda ao nível desejado de disparo. Isso garantirá que o motor seja acionado apenas quando os valores do sensor atingirem ou excederem o limite estabelecido.
