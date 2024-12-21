@@ -7,6 +7,10 @@ Arduino Uno ou qualquer outro microcontrolador<br>1 Breadboard<br>Jumpers/Cabos 
 ![Meu Projeto](circuito_arduino.png)
 
 ![Meu Projeto](Imagem_demonstrativa.jpg)
-<a text=center>
-  [![vídeo no GitHub](https://img.youtube.com/vi/BFO7PU2HMyw/0.jpg)](https://youtu.be/BFO7PU2HMyw)
-</a>
+
+<div align="center">
+  <a href="https://youtu.be/BFO7PU2HMyw" target="_blank">
+    <img src="https://img.youtube.com/vi/BFO7PU2HMyw/0.jpg" alt="vídeo no GitHub" width="600">
+  </a>
+</div>
+
