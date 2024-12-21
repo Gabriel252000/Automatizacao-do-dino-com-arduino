@@ -9,7 +9,7 @@ Arduino Uno ou qualquer outro microcontrolador<br>1 Breadboard<br>Jumpers/Cabos 
 
 <div align="center">
   <a href="https://youtu.be/BFO7PU2HMyw" target="_blank">
-    <img src="https://img.youtube.com/vi/BFO7PU2HMyw/0.jpg" alt="vídeo no GitHub" width="600">
+    <img src="https://img.youtube.com/vi/BFO7PU2HMyw/0.jpg" alt="vídeo demonstrativo" width="600">
   </a>
 </div>
 
