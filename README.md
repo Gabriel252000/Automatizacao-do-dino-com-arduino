@@ -9,3 +9,5 @@ Arduino Uno ou qualquer outro microcontrolador<br>1 Breadboard<br>Jumpers/Cabos 
 ![Meu Projeto](circuito_arduino.png)
 
 ![Meu Projeto](Imagem_demonstrativa.jpg).
+
+[Clique aqui para assistir ao vídeo](video.mp4)
