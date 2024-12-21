@@ -6,6 +6,6 @@ Arduino Uno ou qualquer outro microcontrolador<br>1 Breadboard<br>Jumpers/Cabos 
 
 ![Meu Projeto](circuito_arduino.png)
 
-![Meu Projeto](Imagem_demonstrativa.jpg).
+![Meu Projeto](Imagem_demonstrativa.jpg)
 
 [![vídeo no GitHub](https://img.youtube.com/vi/BFO7PU2HMyw/0.jpg)](https://youtu.be/BFO7PU2HMyw)
